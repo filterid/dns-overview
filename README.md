@@ -60,7 +60,7 @@ This repository contains a curated list of valuable educational resources, docum
 
 ## RFCs and Standards
 Essential RFCs for DNS understanding:
-- [RFC Overview](dns-rfc.md)
+- [RFC Overview](dns-rfcs.md)
 - [RFC 1034](https://tools.ietf.org/html/rfc1034) - Domain Names - Concepts and Facilities
 - [RFC 1035](https://tools.ietf.org/html/rfc1035) - Domain Names - Implementation and Specification
 - [RFC 4033-4035](https://tools.ietf.org/html/rfc4033) - DNSSEC
